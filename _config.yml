@@ -29,6 +29,7 @@ zhihu_username:
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+plugins: [jekyll-paginate]
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
@@ -61,4 +62,3 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
-gems: [jekyll-paginate]
