@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "思考就是思考的报酬"
 header-img: "img/green.jpg"
 ---
 
@@ -12,33 +12,16 @@ header-img: "img/green.jpg"
 
 我是耿苏宁，每天进步一点点。
 
-现在研习 **Java Web** 。
-
 ###坚信
-技术改变世界
-
-###关注：
-
-
-
-
-###代表作：
-
-
-
-###我的朋友们
+独立思考是一个人最可贵的价值
 
 ###联系
 
-- [博客：www.com](www.com)
+- [博客：新浪博客](http://blog.sina.com.cn/gengsuning)
 
-- [微博@老耿inter](http://weibo.com/207775270)
+- [微博@老耿inter](http://weibo.com/intergeng)
 
-- [知乎@耿苏宁](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：Talkingsoccer
+- 公众号：我说的可能都是错的
 
 
 <center>
