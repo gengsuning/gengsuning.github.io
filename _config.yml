@@ -1,8 +1,8 @@
 # Site settings
-title:
+title: 思考就是思考的报酬
 header-img: "img/green.jpg"
 tagline: "cn"
-description: "耿苏宁|"
+description: "耿苏宁"
 baseurl: ""
 url: "http://gengsuning.github.io"
 
@@ -10,18 +10,19 @@ url: "http://gengsuning.github.io"
 owner:
   name: "Suning"
   email: suning.geng@gmail.com
-  bio: "写就是写的报酬"
+  bio: "思考就是思考的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:
+douban_username: gengsuning@139.com
 twitter_username:
-github_username:
+github_username: suning.geng@gmail.com
 facebook_username:
-weibo_username:
-zhihu_username:
+weibo_username: gengsuning@sina.com
+zhihu_username: suning.geng@gmail.com
+CSDN: suning.geng@gmail.com
 
 # Build settings
 # use Github Flavored Markdown !important
