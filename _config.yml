@@ -1,5 +1,5 @@
 # Site settings
-title: 思考就是思考的报酬
+title: 思考本身就是思考的报酬
 header-img: "img/green.jpg"
 tagline: "cn"
 description: "耿苏宁"
@@ -10,11 +10,11 @@ url: "http://gengsuning.github.io"
 owner:
   name: "Suning"
   email: suning.geng@gmail.com
-  bio: "思考就是思考的报酬"
+  bio: "思考本身就是思考的报酬"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+gavatar:
+favicon:
 
 douban_username: gengsuning@139.com
 twitter_username:
