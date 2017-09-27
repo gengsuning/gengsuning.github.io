@@ -17,9 +17,9 @@ header-img: "img/green.jpg"
 
 ### 联系
 
-- [博客：新浪博客] (http://blog.sina.com.cn/gengsuning)
+- [博客：新浪博客](http://blog.sina.com.cn/gengsuning)
 
-- [微博@老耿inter] (http://weibo.com/intergeng)
+- [微博@老耿inter](http://weibo.com/intergeng)
 
 - 公众号：我说的可能都是错的
 

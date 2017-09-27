@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>思考本身就是思考的报酬</title>
+    <description>耿苏宁</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Sep 2017 15:35:51 +0800</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2017 15:35:51 +0800</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>缘起</title>
+        <description>&lt;h1 id=&quot;初心&quot;&gt;初心&lt;/h1&gt;
+
+&lt;p&gt;最近一直在新浪博客、微信公众号、CSDN博客、简书、知乎等四处徘徊，期望写点东西，有所输出，对自己是个不断锻炼和总结的过程。&lt;/p&gt;
+
+&lt;p&gt;平台都很好用，但是终觉得不是自己的地。&lt;/p&gt;
+
+&lt;p&gt;于是，作为一个偏爱技术的人，还是到这个技术人员的圣地，来寻一片乐园吧。&lt;/p&gt;
+
+&lt;p&gt;这个私人博客托管在 &lt;em&gt;GitHub Pages&lt;/em&gt; 上，由 &lt;em&gt;jekyll&lt;/em&gt; 提供 &lt;em&gt;markdown&lt;/em&gt; 文件解析能力，在 &lt;strong&gt;GoDaddy&lt;/strong&gt; 上购买的域名。应该是目前最稳定可靠，并且，最 &lt;strong&gt;Geek&lt;/strong&gt; 的个人博客构建方式。&lt;/p&gt;
+
+&lt;p&gt;创建的过程非常简单，因为开始总是激情四射，而我们都知道，最难的是坚持。所以，尽量吧。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;思考本身就是思考的报酬&quot;&gt;思考本身就是思考的报酬&lt;/h1&gt;
+
+&lt;p&gt;柴静在她2006年的博客上就曾经说过&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;写本身就是写的报酬&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我一直相信，独立思考是一个人最大的价值。&lt;/p&gt;
+
+&lt;p&gt;就借用这句听上去很玄的话，作为我博客的基调和底色吧。&lt;/p&gt;
+
+&lt;p&gt;是为序。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Sep 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2017/09/27/why-write/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/09/27/why-write/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
