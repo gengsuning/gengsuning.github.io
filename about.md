@@ -19,9 +19,12 @@ header-img: "img/green.jpg"
 
 - [博客：新浪博客](http://blog.sina.com.cn/gengsuning)
 
+- [博客：CSDN博客](http://http://blog.csdn.net/gengsuning)
+
 - [微博@老耿inter](http://weibo.com/intergeng)
 
 - 公众号：我说的可能都是错的
+         TalkingTechnology
 
 
 <center>
