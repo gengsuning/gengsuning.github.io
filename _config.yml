@@ -61,5 +61,6 @@ google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+baidu_analytics: 9a8e1cdb92e1814189953d244735dc6a
 
 # Links to include in footer navigation
