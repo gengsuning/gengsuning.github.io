@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 心理学经典效应漫谈-近因效应
-date: 2018-24
+date: 2018-2-24
 categories: blog
 tags: 心理学 近因效应 职场应用
 description: 近因效应在职场的应用
