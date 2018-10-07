@@ -24,9 +24,7 @@ header-img: "img/green.jpg"
 - [微博@老耿inter](http://weibo.com/intergeng)
 
 - 公众号：我说的可能都是错的
-         TalkingTechnology
-
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="https://pan.baidu.com/s/1i1l36qNGJVdLqsJwHpLhWg" align="center"></p>
 </center>
